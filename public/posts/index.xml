@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Продукция любимого завода АвтоВАЗа</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Продукция любимого завода АвтоВАЗа</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Завод Тольятти</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;краткая-информация-про-завод&#34;&gt;Краткая информация про завод&lt;/h2&gt;&#xA;&lt;p&gt;«АвтоВАЗ» — советская и российская автомобилестроительная компания, крупнейший производитель легковых автомобилей в Восточной Европе. Завод основан в 1966 году в городе Тольятти, где находятся штаб-квартира и основное производство.&lt;/p&gt;&#xA;&lt;p&gt;Адрес: Южное ш., 36, Тольятти. 23&lt;/p&gt;&#xA;&lt;p&gt;Телефон клиентской службы: 8 800 700-52-32.&lt;/p&gt;&#xA;&lt;p&gt;Сайт: avtovaz.ru.&lt;/p&gt;&#xA;&lt;p&gt;Продукция: производит автомобили под собственной торговой маркой Lada, до марта 2022 года также выпускал автомобили марки Nissan, Renault и Datsun. Кроме того, «АвтоВАЗ» поставляет другим производителям машинокомплекты для выпуска автомобилей марки Lada и их модификаций.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Лучшая модель АвтоВАЗа - Priorshe</title>
+      <link>http://localhost:1313/posts/priorshe/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/priorshe/</guid>
+      <description>&lt;h2 id=&#34;priorshe&#34;&gt;Priorshe&lt;/h2&gt;&#xA;&lt;p&gt;LADA Priora — семейство рестайлинговых российских автомобилей, ранее носивших названия «Lada 110», «Lada 111», «Lada 112», III группы малого класса, выпускавшихся ПАО «АвтоВАЗ» c 2007 по 2018 год. Головной моделью семейства является седан, носящий по отраслевой нормали ОН 025270-66 ВАЗ-2170.&lt;/p&gt;&#xA;&lt;p&gt;LADA Priora хетчбэк&lt;/p&gt;&#xA;&lt;p&gt;Автомобиль представляет собой глубокую модернизацию ВАЗ-2112 с полностью изменённым дизайном кузова, включая заднюю часть с оригинальной светотехникой и кузовными панелями. Выпускался с осени 2008 года по 2015 год. Имел двигатели, объёмом 1,6 литра мощностью 81, 87, 98 и 106 л. с.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
